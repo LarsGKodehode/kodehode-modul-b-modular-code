@@ -1,7 +1,6 @@
 import { posts } from "./posts.js"
 import { createArticleCard } from './createArticleCard.js'
 
-
 // We want to create a HTML element for each of the posts
 const articles = posts.articles
 
