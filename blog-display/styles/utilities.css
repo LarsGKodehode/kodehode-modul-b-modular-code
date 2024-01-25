@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.text-center {
+  text-align: center;
+}
